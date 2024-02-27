@@ -1,0 +1,26 @@
+.container_c {
+    margin-top: 15px;
+    width: 100%;
+    height: 1vh;
+    display: flex;
+    /* flex-direction: column; */
+  }
+  
+  .top_c {
+    background-color: #fff;
+    flex: 1;
+    margin-top: 90px;
+    margin-bottom: 18px;
+  }
+
+  .container_admin {
+    font-size: large;
+    margin-top: 80px;
+  
+    display: flex;
+ 
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; */
+  }
